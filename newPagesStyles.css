@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(232, 231, 230);
+    color: rgb(36, 35, 35);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 50 px;
+    padding: 10 px;
+}
+
+.styleclass{
+    font-weight: bold;
+    position:relative;
+    color: black;
+}
+
+.styleimage{
+    border: 2px solid #260e9d;
+    border-radius: 10px;
+    padding: 5px;
+    width: 300px;
+    text-align:center;
+    display: inline-block;
+}
+
+.stylevideo{
+    border: 2px solid #260e9d;
+    border-radius: 10px;
+    padding: 5px;
+    width: 560px;
+    text-align:center;
+    display: inline-block;}
+
+ul{
+    text-align:left;
+    font-display: inline-block;
+}
+
+ol{
+    text-align: left;
+    display: inline-block;
+}
+
+
+a:link{
+    text-decoration: underline;
+    color:darkblue;
+    font-size: large;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
